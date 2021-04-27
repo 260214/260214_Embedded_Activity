@@ -3,8 +3,8 @@
 #### CI and Code Quality
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Cppcheck](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml)|
-|[![Compile-Linux](https://github.com/260214/Embedded_Activity/actions/workflows/Compile.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/Compile.yml)|
+|[![Cppcheck](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml)||[![Compile-Linux
+(https://github.com/260214/Embedded_Activity/actions/workflows/Compile.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/Compile.yml)|
 
 # ACTIVITY_1
 
