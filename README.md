@@ -1,6 +1,5 @@
 # Embedded C 
-
-
+[![Cppcheck][![Cppcheck](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml)
 
 # ACTIVITY_1
 
