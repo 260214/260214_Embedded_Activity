@@ -3,6 +3,7 @@
 #### CI and Code Quality
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/67d8593bd43f432bb75e2897ac035597)](https://app.codacy.com/gh/260214/Embedded_Activity?utm_source=github.com&utm_medium=referral&utm_content=260214/Embedded_Activity&utm_campaign=Badge_Grade_Settings)
 |[![Cppcheck](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml)| [![Compile-Linux](https://github.com/260214/Embedded_Activity/actions/workflows/Compile.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/Compile.yml)
 # ACTIVITY_1
 
