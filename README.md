@@ -1,5 +1,9 @@
 # Embedded C 
-[![Cppcheck][![Cppcheck](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml)
+
+#### CI and Code Quality
+|Build|Cppcheck|
+|[![Cppcheck](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/CodeQuality.yml)|
+|[![Compile-Linux](https://github.com/260214/Embedded_Activity/actions/workflows/Compile.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/Compile.yml)|
 
 # ACTIVITY_1
 
@@ -18,7 +22,5 @@ CASE_4(0,0)-> LED DOESN'T GLOW
 
 
 
-#### CI and Code Quality
 
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
+
