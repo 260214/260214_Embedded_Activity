@@ -33,7 +33,7 @@ void peripheral_init(void)
 
 int main(void)
 {
-    uint16_t temp;
+    uint16_t tem;
     peripheral_init();
 
 
@@ -45,7 +45,7 @@ int main(void)
             {
 
                 ledstat(LED_ON);
-                temp=ReadADC(0);
+                tem=ReadADC(0);
             }
 
         }
