@@ -1,5 +1,7 @@
 # Embedded C 
 
+
+
 # ACTIVITY_1
 
 ## In Action
@@ -11,6 +13,10 @@ CASE_3(1,0)-> LED DOESN'T GLOW
 ![CASE_3(1,0)](ACTIVITY-1/PIC3.png)
 CASE_4(0,0)-> LED DOESN'T GLOW
 ![CASE_4(0,0)](ACTIVITY-1/PIC4.png)
+
+# ACTIVITY_2
+ADC_LED_GLOW(ACTIVITY-1/ACT_2.png)
+
 
 
 #### CI and Code Quality
