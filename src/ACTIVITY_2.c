@@ -1,5 +1,5 @@
 /**
- * @file ACTIVITY_2.C
+ * @file ACTIVITY_2.c
  * @author 260214(sayani0498@gmail.com)
  * @brief 
  * @version 0.1
