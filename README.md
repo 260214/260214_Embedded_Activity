@@ -47,7 +47,7 @@ ATmega328P is one of the high performances AVR technology microcontroller with a
 * Embedded systems like coffee machine, vending machine.
 * Motor control systems.
 
-The Seat Heating control system is basically used to control the temperature of a car seat. When a passanger or a driver of the car seats on a car, the button sensor gets activated (which acts as one switch here). After that, the user can turn on the heater(which acts as another switch). The temperature sensor keeps monitoring and recording the temperature and sends the analog value to the microcontroller ATmega328. The microcontroller takes the analog input of the temperature sensor and gives output a temperature value through UART( through serial communication).
+The Seat Heating control system is basically used to control the temperature of a car seat. When a passanger or a driver of the car seats on a car, the button sensor gets activated (which acts as one switch here). After that, the user can turn on the heater(which acts as another switch). The temperature sensor keeps monitoring and recording the temperature and sends the Pulse Width Modulation output to microcontroller ATmega328. The microcontroller takes the analog input of the sensor and gives output a tdesired output value through UART( through serial communication).
 
 
 ## SIMULATION:
