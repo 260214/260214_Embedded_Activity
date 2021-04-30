@@ -26,23 +26,23 @@ ATmega328P is one of the high performances AVR technology microcontroller with a
 
 
 
-# ACTIVITY_1
-### LED_STATUS
+### ACTIVITY_1
+#### LED_STATUS
 ![LED GLOWS](Simulation_Images/PIC1.png)
 ![LED DOESN'T GLOW](Simulation_Images/PIC2.png)
 ![LED DOESN'T GLOW](Simulation_Images/PIC3.png)
 ![LED DOESN'T GLOW](Simulation_Images/PIC4.png)
 
 
-# ACTIVITY_2
+### ACTIVITY_2
 ![ReadADC](Simulation_Images/ACT_2.png)
 
 
-# ACTIVITY_3
+### ACTIVITY_3
 ![PWMOutput](Simulation_Images/ACT_3.png)
 
 
-# ACTIVITY_4
+### ACTIVITY_4
 ![UART](Simulation_Images/ACT_4.png)
 
 
