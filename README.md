@@ -73,6 +73,14 @@ The Seat Heating control system is basically used to control the temperature of 
 ![UART](Simulation_Images/ACT_4.png)
 
 
+## CHALLENGES FACED AND HOW WAS IT SOLVED
+| No. | Challenge | Solution
+|-----|-----------|--------
+|1| Had faced a lot of errors while running the code in the VSC software and couldn't clone it directly with GitHub | Resolved it by using commands in the terminal |
+|2| The cicruit wasn't proper hence desired output was not sufficient  | The wires were fixed,PINS were checked and put accordingly |
+
+
+
 
 
 
