@@ -1,6 +1,6 @@
 # Embedded-Project
 
-|### SEAT_HEATING_APP|
+|SEAT_HEATING_APP|
 |:--:|
 |![IMAGE](Simulation_Images/images.png)|
 
