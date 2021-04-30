@@ -1,4 +1,7 @@
-# Embedded C 
+# Embedded-Project
+
+![IMAGE](Simulation_Images/images.png)
+
 
 #### CI and Code Quality
 |Build|Cppcheck|Codacy|
