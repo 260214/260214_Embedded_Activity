@@ -8,7 +8,7 @@
 
 
 
-#### Introduction:
+#### INTRODUCTION:
 
 A microcontroller (MCU for microcontroller unit) is a small computer on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip. A microcontroller contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals. Program memory in the form of ferroelectric RAM, NOR flash or OTP ROM is also often included on chip, as well as a small amount of RAM. Microcontrollers are designed for embedded applications, in contrast to the microprocessors used in personal computers or other general purpose applications consisting of various discrete chips.
 
@@ -24,36 +24,45 @@ ATmega328P is one of the high performances AVR technology microcontroller with a
 ### ATmega328 BLOCK DIAGRAM:
 ![ATmega328 BLOCK DIAGRAM](Simulation_Images/ATMEGA328P-Block-Diagram.jpg)
 
-#### Features:
-* Non programmable data and program memory
-* High performance
-* Low power consumption
-* Fully static operation
-* On chip analog comparator
+#### FEATURES:
+* Non programmable data and program memory.
+* High performance.
+* Low power consumption.
+* Fully static operation.
+* On chip analog comparator.
+
+#### APPLICATIONS:
+* Used in ARDUINO UNO, ARDUINO NANO and ARDUINO MICRO boards.
+* Industrial control systems.
+* SMPS and Power Regulation systems.
+* Digital data processing.
+* Analog signal measuring and manipulations.
+* Embedded systems like coffee machine, vending machine.
+* Motor control systems.
 
 The Seat Heating control system is basically used to control the temperature of a car seat. When a passanger or a driver of the car seats on a car, the button sensor gets activated (which acts as one switch here). After that, the user can turn on the heater(which acts as another switch). The temperature sensor keeps monitoring and recording the temperature and sends the analog value to the microcontroller ATmega328. The microcontroller takes the analog input of the temperature sensor and gives output a temperature value through UART( through serial communication).
 
 
+##SIMULATION:
 
 
-
-### ACTIVITY_1
-#### LED_STATUS
+### ACTIVITY_1:
+#### LED_STATUS-
 ![LED GLOWS](Simulation_Images/PIC1.png)
 ![LED DOESN'T GLOW](Simulation_Images/PIC2.png)
 ![LED DOESN'T GLOW](Simulation_Images/PIC3.png)
 ![LED DOESN'T GLOW](Simulation_Images/PIC4.png)
 
 
-### ACTIVITY_2
+### ACTIVITY_2:
 ![ReadADC](Simulation_Images/ACT_2.png)
 
 
-### ACTIVITY_3
+### ACTIVITY_3:
 ![PWMOutput](Simulation_Images/ACT_3.png)
 
 
-### ACTIVITY_4
+### ACTIVITY_4:
 ![UART](Simulation_Images/ACT_4.png)
 
 
