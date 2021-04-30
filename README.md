@@ -1,6 +1,7 @@
 # Embedded-Project
 
 ![IMAGE](Simulation_Images/images.png)
+### SEAT_HEATING_APP
 
 
 #### CI and Code Quality
