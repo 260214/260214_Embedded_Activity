@@ -1,5 +1,13 @@
 # Embedded C 
 
+#### CI and Code Quality
+|Build|Cppcheck|Codacy|
+|:--:|:--:|:--:|
+|[![Compile-Linux](https://github.com/260214/Embedded_Activity/actions/workflows/compile.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/260214/Embedded_Activity/actions/workflows/Codequality.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/Codequality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5b348aa747d448c6956a23de6776c18c)](https://www.codacy.com/gh/260214/Embedded_Activity/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=260214/Embedded_Activity&amp;utm_campaign=Badge_Grade)|
+
+
+
+
 #### Introduction:
 
 A microcontroller (MCU for microcontroller unit) is a small computer on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip. A microcontroller contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals. Program memory in the form of ferroelectric RAM, NOR flash or OTP ROM is also often included on chip, as well as a small amount of RAM. Microcontrollers are designed for embedded applications, in contrast to the microprocessors used in personal computers or other general purpose applications consisting of various discrete chips.
@@ -15,10 +23,6 @@ ATmega328P is one of the high performances AVR technology microcontroller with a
 ![ATmega328 BLOCK DIAGRAM](Simulation_Images/ATMEGA328P-Block-Diagram.jpg)
 
 
-#### CI and Code Quality
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/260214/Embedded_Activity/actions/workflows/compile.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/260214/Embedded_Activity/actions/workflows/Codequality.yml/badge.svg)](https://github.com/260214/Embedded_Activity/actions/workflows/Codequality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5b348aa747d448c6956a23de6776c18c)](https://www.codacy.com/gh/260214/Embedded_Activity/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=260214/Embedded_Activity&amp;utm_campaign=Badge_Grade)|
 
 
 
