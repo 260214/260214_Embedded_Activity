@@ -73,6 +73,31 @@ The Seat Heating control system is basically used to control the temperature of 
 ![UART](Simulation_Images/ACT_4.png)
 
 
+## Detail requirements
+### High Level Requirements: 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | A user must know to call every function. | Techincal | IMPLEMENTED | 
+| HR02 | User must know the number of arguments and the arguments itself to be passed during the function call. | Techincal |  IMPLEMENTED  |
+| HR03 | User must be familiar with executing C codes in his/her own machine and a must knowledge of embedded is required. | Techincal |  IMPLEMENTED  |
+| HR04 | User must be familiar with reading and writing files in C language if looking for storing data. | Techincal |  IMPLEMENTED  |
+| HR05 | User must be familiar using VScode,Codeblocks,SimulIDE | Techincal |  IMPLEMENTED  |
+
+
+
+##  Low level Requirements:
+ 
+| ID | Description | Category |
+| ------ | --------- | ------ | 
+| LR01 | User must have knowledge about the app and how to use it. | Scenario |                                                                                      
+| LR02 | User must have knowledge about c language.| Scenario | 
+| LR03 | User must have idea of open-source codes | Scenario |                                                                                           
+| LR04 | User must be familiar with different types of functions available.| Scenario | 
+| LR05 | User must have idea of Git and GitHub. | Scenario | 
+| LR06 | User must have idea of microcontroller and microprocessor. | Scenario | 
+
+
+
 ### CHALLENGES FACED AND HOW WAS IT SOLVED
 | No. | Challenge | Solution
 |-----|-----------|--------
