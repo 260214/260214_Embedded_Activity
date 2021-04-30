@@ -4,7 +4,7 @@
 
 ATmega328P is one of the high performances AVR technology microcontroller with a large number of pins and features. It is designed by 8-bit CMOS technology and RSIC CPU which enhance its performance and its power efficiency get improved by auto sleeps and internal temperature sensor. This ATmega328P IC comes with internal protections and multiple programming methods which helps the engineers to priorities this controller for different situations. The IC allows multiple modern era communications methods for other modules and microcontrollers itself, which is why the microcontroller ATmega328P usage has been increasing every day.
 
-![ATmega328 PIN DIAGRAM](Simulation_Images/ATMEGA328P-Pin-Configuration-Diagram.png)
+![ATmega328 BLOCK DIAGRAM](Simulation_Images/ATMEGA328P-Block-Diagram.jpg)
 
 
 #### CI and Code Quality
