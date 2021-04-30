@@ -39,6 +39,7 @@ ATmega328P is one of the high performances AVR technology microcontroller with a
 
 
 # ACTIVITY_4
+![UART](Simulation_Images/ACT_4.png)
 
 
 
