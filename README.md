@@ -22,6 +22,13 @@ ATmega328P is one of the high performances AVR technology microcontroller with a
 
 ![ATmega328 BLOCK DIAGRAM](Simulation_Images/ATMEGA328P-Block-Diagram.jpg)
 
+#### Features:
+* Non programmable data and program memory
+* High performance
+* Low power consumption
+* Fully static operation
+* On chip analog comparator
+
 
 
 
